@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.sample {
+  color: rgb(186, 255, 186);
+  background-color: cadetblue;
+  font-size: xx-large;
+}

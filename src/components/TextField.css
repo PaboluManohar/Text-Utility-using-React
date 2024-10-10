@@ -1,0 +1,10 @@
+.preview {
+    
+    font-weight: 700;
+    font-stretch: expanded;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    padding: 20px;
+    line-height: 25px;
+    word-spacing: 5px;
+}
